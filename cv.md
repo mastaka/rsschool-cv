@@ -51,7 +51,7 @@ In June 2024, I started the **JS/FE Pre-School 2024Q2** course at RS School, hop
 ## LANGUAGES
 
 - **English:** Basic
-- **Polish:** Fluent
+- **Polish:** Fluent    
 - **Belarusian:** Native
 - **Russian:** Native
 
@@ -71,3 +71,13 @@ In June 2024, I started the **JS/FE Pre-School 2024Q2** course at RS School, hop
 - [Behance](https://www.behance.net/mastaka)
 - [Tumblr](https://mastaka.tumblr.com/)
 
+## CODE EXAMPLE
+*Sorry, but at the moment, I don't have any example of sensible code other than solving a simple problem on codewars ¯ \ _ (ツ) _ / ¯*
+
+~~~
+function multiply(a, b){
+ return a * b
+}
+~~~
+
+And I'll also add a [link](https://mastaka.github.io/rsschool-cv/cv) to the code for this CV until I write something worthwhile.
