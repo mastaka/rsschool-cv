@@ -36,4 +36,38 @@ In June 2024, I started the **JS/FE Pre-School 2024Q2** course at RS School, hop
 - Initiated microstock illustration in 2013, contributing to major platforms such as [Shutterstock](https://www.shutterstock.com/g/MastakA), [Getty Images](http://www.istockphoto.com/portfolio/mastaka), [Adobe Stock](https://stock.adobe.com/contributor/203860893/Mastak_A), and [Envato Elements](https://elements.envato.com/user/MastakA).
 - Globally recognized for a unique flat portrait icon style, influencing designers worldwide.
 
+## SKILLS
+
+- **Graphic Design:** Proficient in Adobe Creative Cloud and Affinity graphic programs. Skilled in a wide range of raster and vector graphics software.
+- **Versatility:** Expertise in raster and vector graphics editing, traditional illustration, and digital animation.
+- **Innovation:** Knowledge and practical skills in configuration, training and promt-engineering of diffusion-based generative models.
+
+## EDUCATION
+
+**Bachelor of Arts in Visual Communication**  
+###University of Wrocław  
+2014 – 2019
+
+## LANGUAGES
+
+- **English:** Basic
+- **Polish:** Fluent
+- **Belarusian:** Native
+- **Russian:** Native
+
+## INTERESTS
+
+- **Neural Networks:** Passionate about exploring the capabilities and applications of neural networks.
+- **Computer Security:** Keen interest in staying updated on the latest trends and practices in computer security.
+- **Unix Systems:** Enthusiastic about Unix systems and their intricate functionalities.
+- **Programming:** Enjoying programming as a creative outlet and problem-solving tool.
+- **Boomerang Engineering:** Pursuing the art and science of boomerang design and engineering.
+
+## LINKS
+
+- [Personal Site](https://mastaka.net/)
+- [Adobe Stock](https://stock.adobe.com/contributor/203860893/Mastak_A)
+- [99Designs](https://99designs.com/profiles/mastak)
+- [Behance](https://www.behance.net/mastaka)
+- [Tumblr](https://mastaka.tumblr.com/)
 
