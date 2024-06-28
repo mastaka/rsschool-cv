@@ -16,7 +16,7 @@ Wroclaw, Poland (GMT +1)
 
 Versatile Graphic Designer and Illustrator with a decade of global recognition. Started as a Microstock Illustrator in 2013, contributing to major platforms like [Shutterstock](https://www.shutterstock.com/g/MastakA) and [Adobe Stock](https://stock.adobe.com/contributor/203860893/Mastak_A). Transitioned to a successful Freelance Graphic Design and Illustration career in 2018, achieving Top-Level status on [99Designs](https://99designs.com/profiles/mastak). Proficient in Adobe Creative Cloud and Affinity, showcasing expertise in raster and vector graphics, traditional illustration, and digital animation, along with knowledge of diffusion-based generative models.
 
-In June 2024, I started the **JS/FE Pre-School 2024Q2** course at RS School, hoping to learn basic programming skills and further dedicate my life to the machine learning related IT-industry.
+In June 2024, I started the **JS/FE Pre-School 2024Q2** course at RS School, hoping to learn basic programming skills and further dedicate my life to the machine learning related IT-industry. I began training from the very basics, as my knowledge of programming is rather scrappy, in order to build a stable knowledge base and form a mindset that will allow me to be productive in programming later on.
 
 
 ## PROFESSIONAL EXPERIENCE
@@ -45,7 +45,7 @@ In June 2024, I started the **JS/FE Pre-School 2024Q2** course at RS School, hop
 ## EDUCATION
 
 **Bachelor of Arts in Visual Communication**  
-###University of Wrocław  
+### University of Wrocław  
 2014 – 2019
 
 ## LANGUAGES
