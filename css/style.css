@@ -26,6 +26,11 @@ body {
     border: 1px solid greenyellow;
   }
   
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
   header {
     /* border for header */
     border: 1px solid red;
