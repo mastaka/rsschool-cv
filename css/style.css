@@ -1,5 +1,20 @@
+/* It's just an attempt to connect 
+a font created by myself
+as a training and experiment. 
+Most likely it will not be used in the project. */
+@font-face {
+  font-family: Ante-Regular;
+  src: url("./assets/fonts/Ante-Regular.otf");
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-    background-color: lightblue;
+    background-color: rgb(50, 50, 50);
+    font-family: 'Kode Mono', monospace;
+    font-family: 'Ante-Regular';
   }
   
   h1 {
