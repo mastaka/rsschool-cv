@@ -2,8 +2,13 @@
 a font created by myself as a training and experiment. 
 Most likely it will not be used in the project. */
 @font-face {
-  font-family: 'Ante-Regular';
+  font-family: "Ante-Regular";
   src: url("./assets/fonts/Ante-Regular.otf");
+}
+
+в/* smooth scrolling */
+html {
+  scroll-behavior: smooth;
 }
 
 * {
@@ -21,15 +26,15 @@ Most likely it will not be used in the project. */
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  font-family: Koda Mono, monospace;
+  font-family: "Koda Mono", monospace;
   font-size: 16px;
 }
 
 body {
     background-color: rgb(50, 50, 50);
     /* add fonts */
-    /* font-family: 'Kode Mono', monospace;
-    font-family: 'Ante-Regular'; */
+    /* font-family: "Kode Mono", monospace;
+    font-family: "Ante-Regular"; */
 
     /* manipulation to put footer down */
     min-height: 100vh;
@@ -41,29 +46,25 @@ body {
     border: 1px solid greenyellow;
   }
   
-
-/* smooth scrolling */
-html {
-    scroll-behavior: smooth;
-  }
-  
-  header {
+header {
     /* border for header */
     border: 1px solid red;
   }
   
-  footer {
+footer {
     /* border for footer */
-    border: 1px solid blueviolet
+    border: 1px solid blueviolet;
+    font-family: "Ante-Regular";
+    font-size: 10px;
   }
   
-  /* styling for h1 */
-  h1 {
+/* styling for h1 */
+h1 {
     color: white;
     text-align: center;
   }
   
-  p {
-    font-family: verdana;
+p {
+    font-family: Koda Mono, monospace;
     font-size: 20px;
   }
