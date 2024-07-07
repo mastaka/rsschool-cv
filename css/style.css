@@ -15,16 +15,29 @@ html {
   box-sizing: border-box;
 }
 
-/* styles for containers */
+/* styling for containers */
 .container {
   max-width: 1280px;
   margin: 0 auto;
+  padding: 0 15px;
 }
 
-/* styles for navigation */
+/* styling for navigation */
 .navigation_list {
   font-family: "Koda Mono", monospace;
   font-size: 16px;
+}
+
+/* styling for photo */
+.photo {
+  width: 10%;
+  height: auto;
+}
+
+/* styling for rs school logo */
+.rs-logo {
+  width: 5%;
+  height: auto;
 }
 
 body {
@@ -48,7 +61,7 @@ footer {
     /* border for footer */
     border: 1px solid blueviolet;
     font-family: "Ante-Regular";
-    font-size: 0.75rem;
+    font-size: 0.95rem;
     text-align: center;
     color: aqua;
   }
