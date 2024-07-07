@@ -15,6 +15,16 @@ html {
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #d8a657;
+}
+
 /* styling for containers */
 .container {
   max-width: 1280px;
@@ -24,8 +34,15 @@ html {
 
 /* styling for navigation */
 .navigation_list {
-  font-family: "Koda Mono", monospace;
-  font-size: 16px;
+  display: flex;
+  justify-content:center;
+  list-style: none;
+}
+
+.navigation_link {
+  padding: 0 0.8rem;
+  line-height: 0.8rem;
+  text-transform: uppercase;
 }
 
 /* styling for photo */
@@ -42,7 +59,6 @@ html {
 }
 
 body {
-    /* background-color: rgb(110, 110, 110); */
     /* manipulation to put footer down */
     min-height: 100vh;
     margin: 0; padding: 0;
@@ -50,6 +66,8 @@ body {
     flex-direction: column;
     justify-content: space-between;
     /* border for body */
+    background-color: #282828;
+    color: #a9b665;
     border: 1px solid greenyellow;
   }
   
@@ -64,7 +82,7 @@ footer {
     font-family: "Ante-Regular";
     font-size: 0.95rem;
     text-align: center;
-    color: rgb(200, 200, 200);
+    color: #5a524c;
   }
   
 /* styling for h1 */
