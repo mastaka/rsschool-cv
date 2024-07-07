@@ -2,11 +2,11 @@
 a font created by myself as a training and experiment. 
 Most likely it will not be used in the project. */
 @font-face {
-  font-family: "Ante-Regular";
-  src: url("./assets/fonts/Ante-Regular.otf");
+  font-family: Ante-Regular;
+  src: url("../assets/fonts/Ante-Regular.otf")
 }
 
-в/* smooth scrolling */
+/* smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
@@ -23,19 +23,12 @@ html {
 
 /* styles for navigation */
 .navigation_list {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
   font-family: "Koda Mono", monospace;
   font-size: 16px;
 }
 
 body {
     background-color: rgb(50, 50, 50);
-    /* add fonts */
-    /* font-family: "Kode Mono", monospace;
-    font-family: "Ante-Regular"; */
-
     /* manipulation to put footer down */
     min-height: 100vh;
     margin: 0; padding: 0;
@@ -55,7 +48,9 @@ footer {
     /* border for footer */
     border: 1px solid blueviolet;
     font-family: "Ante-Regular";
-    font-size: 10px;
+    font-size: 0.75rem;
+    text-align: center;
+    color: aqua;
   }
   
 /* styling for h1 */
@@ -65,6 +60,5 @@ h1 {
   }
   
 p {
-    font-family: Koda Mono, monospace;
-    font-size: 20px;
+    
   }
