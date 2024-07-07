@@ -65,9 +65,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* border for body */
     background-color: #282828;
     color: #a9b665;
+    font-family: "Kode Mono";
+    /* border for body */
     border: 1px solid greenyellow;
   }
   
