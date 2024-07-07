@@ -36,12 +36,13 @@ html {
 
 /* styling for rs school logo */
 .rs-logo {
-  width: 5%;
+  width: 3%;
   height: auto;
+  margin: 0 5px;
 }
 
 body {
-    background-color: rgb(50, 50, 50);
+    /* background-color: rgb(110, 110, 110); */
     /* manipulation to put footer down */
     min-height: 100vh;
     margin: 0; padding: 0;
@@ -63,13 +64,12 @@ footer {
     font-family: "Ante-Regular";
     font-size: 0.95rem;
     text-align: center;
-    color: aqua;
+    color: rgb(200, 200, 200);
   }
   
 /* styling for h1 */
 h1 {
-    color: white;
-    text-align: center;
+  
   }
   
 p {
