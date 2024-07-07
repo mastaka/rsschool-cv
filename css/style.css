@@ -58,6 +58,13 @@ a:hover {
   margin: 0 5px;
 }
 
+.icons {
+  width: 1.3rem;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 0.1rem;
+}
+
 body {
     /* manipulation to put footer down */
     min-height: 100vh;
