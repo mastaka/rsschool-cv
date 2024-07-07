@@ -1,12 +1,11 @@
 /* It's just an attempt to connect 
 a font created by myself as a training and experiment. 
-Most likely it will not be used in the project. */
+Most likely it will not be used in the project or only on footer. */
 @font-face {
   font-family: Ante-Regular;
-  src: url("../assets/fonts/Ante-Regular.otf")
+  src: url("../assets/fonts/Ante-Regular.otf") format('opentype');
 }
 
-/* smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
@@ -25,14 +24,12 @@ a:hover {
   color: #d8a657;
 }
 
-/* styling for containers */
 .container {
   max-width: 1280px;
-  margin: 0 auto;
+  margin:  auto;
   padding: 0 15px;
 }
 
-/* styling for navigation */
 .navigation_list {
   display: flex;
   justify-content:center;
@@ -45,13 +42,11 @@ a:hover {
   text-transform: uppercase;
 }
 
-/* styling for photo */
 .photo {
   width: 10rem;
   height: auto;
 }
 
-/* styling for rs school logo */
 .rs-logo {
   width: 0.95rem;
   height: auto;
@@ -78,44 +73,34 @@ a:hover {
 body {
     /* manipulation to put footer down */
     min-height: 100vh;
-    margin: 0; padding: 0;
+    margin: 0; 
+    padding: 2rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     background-color: #282828;
     color: #a9b665;
     font-family: "Kode Mono";
-    /* border for body */
-    border: 1px solid greenyellow;
   }
   
 header {
   color: #a9b665;
-    /* border for header */
-    border: 1px solid red;
   }
-  
-footer {
-    /* border for footer */
-    border: 1px solid blueviolet;
-    font-family: "Ante-Regular";
+
+  footer p {
+    font-family: 'Ante-Regular';
     font-size: 0.95rem;
     text-align: center;
     color: #5a524c;
-  }
-  
-/* styling for h1 */
-h1 {
-  
-  }
-  
+}
+
 p {
   font-family: "Kode Mono", monospace;
   font-size: 0.9rem;
   color: #e78a4e
   }
 
-  ul {
+ul {
     list-style-type: disc;
     margin-left: 1.4rem;
 }
