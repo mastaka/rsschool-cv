@@ -47,7 +47,7 @@ a:hover {
 
 /* styling for photo */
 .photo {
-  width: 10%;
+  width: 10rem;
   height: auto;
 }
 
@@ -65,6 +65,16 @@ a:hover {
   margin-right: 0.1rem;
 }
 
+.section {
+  margin-bottom: 1.4rem;
+}
+
+.section-title {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
+
+
 body {
     /* manipulation to put footer down */
     min-height: 100vh;
@@ -80,6 +90,7 @@ body {
   }
   
 header {
+  color: #a9b665;
     /* border for header */
     border: 1px solid red;
   }
@@ -99,5 +110,22 @@ h1 {
   }
   
 p {
-    
+  font-family: "Kode Mono", monospace;
+  font-size: 0.9rem;
+  color: #e78a4e
   }
+
+  ul {
+    list-style-type: disc;
+    margin-left: 1.4rem;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: #e78a4e
+}
+
+strong {
+    font-weight: bold;
+}
